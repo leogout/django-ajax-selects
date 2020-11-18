@@ -14,6 +14,11 @@ http://django-ajax-selects.readthedocs.org/en/latest/
 
 ## Quick Usage
 
+Install:
+```
+pip install django-ajax-selects
+```
+
 Define a lookup channel:
 
 ```python
